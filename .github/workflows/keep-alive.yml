@@ -9,10 +9,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-    touch .last-updated
-    echo "# auto-update $(date)" >> .last-updated
-    git config user.name "audileo-bot"
-    git config user.email "bot@audileo.com"
-    git add .last-updated
-    git commit -m "weekly freshness bump" || exit 0
-    git push
+          touch .last-updated
+          echo "# auto-update $(date)" >> .last-updated
+          git config user.name "audileo-bot"
+          git config user.email "bot@audileo.com"
+          git add .last-updated
+          git commit -m "weekly freshness bump" || exit 0
+          git push
