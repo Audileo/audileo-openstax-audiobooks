@@ -16,7 +16,7 @@ jobs:
       - run: |
           git config user.name "audileo-bot"
           git config user.email "bot@audileo.com"
-          git pull origin main --rebase
+          git pull origin main --rebase --autostash
           echo "# auto-update $(date)" >> .last-updated
           git add .last-updated
           git commit -m "weekly freshness bump" || exit 0
