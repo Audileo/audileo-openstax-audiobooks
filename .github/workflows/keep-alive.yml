@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT }}
-            fetch-depth: 0
+          fetch-depth: 0
       - run: |
           touch .last-updated
           echo "# auto-update $(date)" >> .last-updated
