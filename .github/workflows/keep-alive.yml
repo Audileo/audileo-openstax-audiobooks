@@ -1,13 +1,18 @@
 name: keep-alive
 on:
   schedule:
-    - cron: '0 9 * * 1'   # every Monday 9 UTC
+    - cron: '0 9 * * 1'
   workflow_dispatch:
 jobs:
   update:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write          # allow push
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
       - run: |
           touch .last-updated
           echo "# auto-update $(date)" >> .last-updated
