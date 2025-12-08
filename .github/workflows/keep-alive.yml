@@ -9,7 +9,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: |
-          date > .last-updated
+          echo "# auto-update $(date)" >> .last-updated
           git config user.name "audileo-bot"
           git config user.email "bot@audileo.com"
           git add .last-updated
