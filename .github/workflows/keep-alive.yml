@@ -14,10 +14,10 @@ jobs:
           token: ${{ secrets.PAT }}
           fetch-depth: 0
       - run: |
-          touch .last-updated
-          echo "# auto-update $(date)" >> .last-updated
           git config user.name "audileo-bot"
           git config user.email "bot@audileo.com"
+          git pull origin main --rebase
+          echo "# auto-update $(date)" >> .last-updated
           git add .last-updated
           git commit -m "weekly freshness bump" || exit 0
           git push
