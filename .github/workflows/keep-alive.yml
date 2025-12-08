@@ -1,0 +1,17 @@
+name: keep-alive
+on:
+  schedule:
+    - cron: '0 9 * * 1'   # every Monday 9 UTC
+  workflow_dispatch:
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: |
+          date > .last-updated
+          git config user.name "audileo-bot"
+          git config user.email "bot@audileo.com"
+          git add .last-updated
+          git commit -m "weekly freshness bump" || exit 0
+          git push
