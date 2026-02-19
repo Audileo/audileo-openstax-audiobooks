@@ -4,4 +4,4 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/owZJXiKbNFQ" title="OpenStax Introduction to Business Chapter 1 Audiobook" frameborder="0" allowfullscreen></iframe>
 
-Full stream: [audileo.com/openstax-introduction-to-business-audiobook/](https://audileo.com/openstax-introduction-to-business-audiobook/)
+Full stream: https://audileo.com/audiobooks/openstax-introduction-to-business/
