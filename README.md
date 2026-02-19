@@ -1,3 +1,5 @@
+[![Library Freshness Sync](https://github.com/Audileo/audileo-openstax-audiobooks/actions/workflows/keep-alive.yml/badge.svg)](https://github.com/Audileo/audileo-openstax-audiobooks/actions/workflows/keep-alive.yml)
+
 # 🎧 Audileo: OpenStax Audiobooks Documentation
 
 Let’s face it: reading a 1,200-page Anatomy textbook is a grind. For students with dyslexia, ADHD, or just a brutal commute, it’s basically an academic barrier. 
