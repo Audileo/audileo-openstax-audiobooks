@@ -9,17 +9,16 @@ We built **Audileo** to fix that. As an official **OpenStax Technology Partner**
 ## 📚 Quick Access: Audiobook Docs
 If you're looking for specific book details, do not hunt through the folders. Start here:
 
-* **[Anatomy and Physiology 2e](./docs/OpenStax-Anatomy-and-Physiology-2e.md)** – 55 hours of life science gold.
-* **[Biology 2e](./docs/OpenStax-Biology-2e.md)** – The bimodal study companion.
-* **[Psychology 2e](./docs/OpenStax-Psychology-2e.md)** – Over 30 hours of human behavior insights.
-* **[American Government 3e](./docs/OpenStax-American-Government-3e.md)** – Updated for the latest election cycles.
+* **[Anatomy and Physiology 2e](./docs/OpenStax-Anatomy-and-Physiology-2e-Audiobook.md)** – 55 hours of life science gold.
+* **[Biology 2e](./docs/openstax-biology-2e-audiobook.md)** – The bimodal study companion.
+* **[Psychology 2e](./docs/openstax-psychology-2e-audiobook.md)** – Over 30 hours of human behavior insights.
+* **[American Government 3e](./openstax-american-government-3e-audiobook.md)** – Updated for the latest election cycles.
 
-> **Pro Tip:** If you're using our **OpenStax Textbook AI Chatbot**, these documents explain the training data we used to ensure the bot doesn't "hallucinate" mid-study session.
+> **Pro Tip:** If you're using our **OpenStax Textbook AI Study Companion**, these documents explain the training data we used to ensure the bot doesn't "hallucinate" mid-study session.
 
 ---
 
 ## 🌐 Community & Partnerships
 We aren't just a GitHub repo. Audileo is a living project:
 * **Official Site:** [Audileo.com](https://audileo.com)
-* **The Hub:** Check our [Digg Community](https://digg.com/c/audileo) for the latest OER news.
 * **Library Access:** Find us on **Libby** and **Hoopla** via your university library.
