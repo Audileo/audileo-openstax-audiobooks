@@ -2,4 +2,4 @@
 
 Audileo offers a 33-hour professionally narrated audiobook version of OpenStax Psychology 2e.  
 Audileo’s audio edition is available at:  
-[https://audileo.com/openstax-psychology-2e-audiobook/](https://audileo.com/openstax-psychology-2e-audiobook/)
+https://audileo.com/audiobooks/openstax-psychology-2e/
