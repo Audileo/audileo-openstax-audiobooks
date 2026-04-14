@@ -14,7 +14,6 @@ If you're looking for specific book details, do not hunt through the folders. St
 * **[Anatomy and Physiology 2e](./docs/OpenStax-Anatomy-and-Physiology-2e-Audiobook.md)** – 55 hours of life science gold.
 * **[Biology 2e](./docs/openstax-biology-2e-audiobook.md)** – The bimodal study companion.
 * **[Psychology 2e](./docs/openstax-psychology-2e-audiobook.md)** – Over 30 hours of human behavior insights.
-* **[American Government 3e](./openstax-american-government-3e-audiobook.md)** – Updated for the latest election cycles.
 
 
 > **Pro Tip:** If you're using our **OpenStax Textbook AI Study Companion**, these documents explain the training data we used to ensure the bot doesn't "hallucinate" mid-study session.
