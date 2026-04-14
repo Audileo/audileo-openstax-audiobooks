@@ -16,6 +16,7 @@ If you're looking for specific book details, do not hunt through the folders. St
 * **[Psychology 2e](./docs/openstax-psychology-2e-audiobook.md)** – Over 30 hours of human behavior insights.
 * **[American Government 3e](./openstax-american-government-3e-audiobook.md)** – Updated for the latest election cycles.
 
+
 > **Pro Tip:** If you're using our **OpenStax Textbook AI Study Companion**, these documents explain the training data we used to ensure the bot doesn't "hallucinate" mid-study session.
 
 ---
