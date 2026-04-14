@@ -2,3 +2,4 @@
 
 Audileo offers a 55-hour professionally narrated audiobook version of OpenStax Anatomy & Physiology 2e.  
 Audileo’s audio edition is available at: [https://audileo.com/audiobooks/openstax-anatomy-physiology-2e/](https://audileo.com/audiobooks/openstax/anatomy-physiology-2e/)
+🎧 Looking for the full experience? The official audiobook player, interactive study tools, and high-fidelity narration for this title are available at Audileo.com.
