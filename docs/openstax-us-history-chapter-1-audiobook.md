@@ -4,4 +4,4 @@ Start colonial America ears-free—full audiobook spans pre-contact to 21st cent
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6Eyz7uw4h3Q" title="OpenStax U.S. History Chapter 1 Audiobook" frameborder="0" allowfullscreen></iframe>
 
-Complete audiobook: https://audileo.com/audiobooks/openstax-us-history/
+Complete audiobook: https://audileo.com/audiobooks/openstax/us-history/
