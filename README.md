@@ -19,14 +19,13 @@ We provide deep-dive documentation for our most popular titles below.
 <summary><b>View Full Library (13+ More Titles)</b></summary>
 
 * [American Government 3e](./docs/openstax-american-government-3e-audiobook.md)
-* [Astronomy 2e](./docs/openstax-astronomy-2e.md)
-* [Business Ethics](./docs/openstax-business-ethics.md)
-* [Introduction to Business](./docs/openstax-intro-business.md)
-* [Introduction to Sociology 3e](./docs/openstax-sociology-3e.md)
-* [Principles of Marketing](./docs/openstax-principles-marketing.md)
-* [Macroeconomics 3e](./docs/openstax-macroeconomics-3e.md)
-* [Organizational Behavior](./docs/openstax-organizational-behavior.md)
-* [Concepts of Biology](./docs/openstax-concepts-biology.md)
+* [Astronomy 2e](./docs/openstax-astronomy-2e-audiobook.md)
+* [Business Ethics](./docs/openstax-business-ethics-audiobook.md)
+* [Introduction to Business](./docs/OpenStax-Introduction-to-Business-Audiobook.md)
+* [Introduction to Sociology 3e](./docs/OpenStax-Introduction-to-Sociology-3e-Audiobook.md)
+* [Principles of Marketing](./docs/openstax-principles-of-marketing-audiobook.md)
+* [Macroeconomics 3e](./docs/openstax-principles-of-macroeconomics-3e-audiobook.md)
+* [Concepts of Biology](./docs/openstax-concepts-of-biology-audiobook.md)
   
 
 </details>
