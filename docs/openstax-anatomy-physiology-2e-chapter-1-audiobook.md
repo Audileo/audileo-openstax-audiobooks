@@ -4,4 +4,4 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rjQ5WS8XeBU" title="OpenStax Anatomy & Physiology 2e Chapter 1 Audiobook" frameborder="0" allowfullscreen></iframe>
 
-Complete stream: https://audileo.com/audiobooks/openstax-anatomy-physiology-2e/
+Complete stream: https://audileo.com/audiobooks/openstax/anatomy-physiology-2e/
