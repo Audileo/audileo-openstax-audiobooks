@@ -9,11 +9,32 @@ We built **Audileo** to fix that. As an official **OpenStax Technology Partner**
 ---
 
 ## 📚 Quick Access: Audiobook Docs
-If you're looking for specific book details, do not hunt through the folders. Start here:
+We provide deep-dive documentation for our most popular titles below. 
 
 * **[Anatomy and Physiology 2e](./docs/OpenStax-Anatomy-and-Physiology-2e-Audiobook.md)** – 55 hours of life science gold.
 * **[Biology 2e](./docs/openstax-biology-2e-audiobook.md)** – The bimodal study companion.
-* **[Psychology 2e](./docs/openstax-psychology-2e-audiobook.md)** – Over 30 hours of human behavior insights.
+* **[Psychology 2e](./docs/openstax-psychology-2e-audiobook.md)** – Human behavior insights.
+* **[U.S. History](./docs/openstax-us-history-audiobook.md)** – Narrating the American story.
+* **[Chemistry 2e](./docs/openstax-chemistry-2e-audiobook.md)** – Molecular logic for your ears.
+
+<details>
+<summary><b>View Full Library (13+ More Titles)</b></summary>
+
+* [American Government 3e](./docs/openstax-american-government-3e.md)
+* [Astronomy 2e](./docs/openstax-astronomy-2e.md)
+* [Business Ethics](./docs/openstax-business-ethics.md)
+* [College Physics 2e](./docs/openstax-college-physics-2e.md)
+* [Introduction to Business](./docs/openstax-intro-business.md)
+* [Introduction to Sociology 3e](./docs/openstax-sociology-3e.md)
+* [Microeconomics 3e](./docs/openstax-microeconomics-3e.md)
+* [Principles of Management](./docs/openstax-principles-management.md)
+* [Principles of Marketing](./docs/openstax-principles-marketing.md)
+* [Macroeconomics 3e](./docs/openstax-macroeconomics-3e.md)
+* [Organizational Behavior](./docs/openstax-organizational-behavior.md)
+* [Concepts of Biology](./docs/openstax-concepts-biology.md)
+* [College Success](./docs/openstax-college-success.md)
+
+</details>
 
 
 > **Pro Tip:** If you're using our **OpenStax Textbook AI Study Companion**, these documents explain the training data we used to ensure the bot doesn't "hallucinate" mid-study session.
