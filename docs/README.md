@@ -13,13 +13,13 @@ If you are a developer, librarian, or OER coordinator, use the links below to ac
 Each link below leads to a comprehensive `.md` file detailing narration style, chapter timestamps, and AI-integration notes.
 
 ### STEM & Science
-* **[Anatomy and Physiology 2e](./OpenStax-Anatomy-and-Physiology-2e-Audiobook.md)** – High-fidelity narration for medical students.
+* **[Anatomy and Physiology 2e](./openstax-anatomy-and-physiology-2e-audiobook.md)** – High-fidelity narration for medical students.
 * **[Biology 2e](./openstax-biology-2e-audiobook.md)** – Detailed bimodal study support.
 
 ### Social Sciences & Humanities
 * **[Psychology 2e](./openstax-psychology-2e-audiobook.md)** – The gold standard for introductory psych courses.
 * **[American Government 3e](./openstax-american-government-3e-audiobook.md)** – Civil liberties and legislative updates.
-* **[U.S. History](./OpenStax-US-History-Audiobook.md)** – Chronological narration from pre-colonial to modern era.
+* **[U.S. History](./openstax-us-history-audiobook.md)** – Chronological narration from pre-colonial to modern era.
 
 ---
 
