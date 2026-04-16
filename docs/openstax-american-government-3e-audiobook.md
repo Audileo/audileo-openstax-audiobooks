@@ -2,5 +2,5 @@
 
 Audileo offers a 32-hour professionally narrated audiobook version of OpenStax American Government 3e.
 
-**Audileo’s audio edition is available at:**
-[https://audileo.com/audiobooks/openstax/american-government-3e/](https://audileo.com/audiobooks/openstax/american-government-3e/)
+### Official Audiobook Link
+You can find the professional audio version here: [OpenStax American Government 3e Audiobook](https://audileo.com/audiobooks/openstax/american-government-3e/)
