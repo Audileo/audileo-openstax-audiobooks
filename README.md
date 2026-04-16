@@ -8,24 +8,24 @@ We built **Audileo** to fix that. As an official **OpenStax Technology Partner**
 
 ---
 
-## 📚 Quick Access: Audiobook Docs
-We provide deep-dive documentation for our most popular titles below. 
+### 📚 Quick Access: Audiobook Docs
+We provide deep-dive documentation for our most popular titles below.
 
-* **[Anatomy and Physiology 2e](./docs/OpenStax-Anatomy-and-Physiology-2e-Audiobook.md)** – 55 hours of life science gold.
-* **[Biology 2e](./docs/openstax-biology-2e-audiobook.md)** – The bimodal study companion.
-* **[Psychology 2e](./docs/openstax-psychology-2e-audiobook.md)** – Human behavior insights.
+* [Anatomy and Physiology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-anatomy-and-physiology-2e-audiobook.html) – 55 hours of life science gold.
+* [Biology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-biology-2e-audiobook.html) – The bimodal study companion.
+* [Psychology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-psychology-2e-audiobook.html) – Human behavior insights.
 
 <details>
 <summary><b>View Full Library (13+ More Titles)</b></summary>
 
-* [American Government 3e](./docs/openstax-american-government-3e-audiobook.md)
-* [Astronomy 2e](./docs/openstax-astronomy-2e-audiobook.md)
-* [Business Ethics](./docs/openstax-business-ethics-audiobook.md)
-* [Introduction to Business](./docs/OpenStax-Introduction-to-Business-Audiobook.md)
-* [Introduction to Sociology 3e](./docs/OpenStax-Introduction-to-Sociology-3e-Audiobook.md)
-* [Principles of Marketing](./docs/openstax-principles-of-marketing-audiobook.md)
-* [Macroeconomics 3e](./docs/openstax-principles-of-macroeconomics-3e-audiobook.md)
-* [Concepts of Biology](./docs/openstax-concepts-of-biology-audiobook.md)
+* [American Government 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-american-government-3e-audiobook.html)
+* [Astronomy 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-astronomy-2e-audiobook.html)
+* [Business Ethics](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-business-ethics-audiobook.html)
+* [Introduction to Business](https://audileo.github.io/audileo-openstax-audiobooks/docs/OpenStax-Introduction-to-Business-Audiobook.html)
+* [Introduction to Sociology 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/OpenStax-Introduction-to-Sociology-3e-Audiobook.html)
+* [Principles of Marketing](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-principles-of-marketing-audiobook.html)
+* [Macroeconomics 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-principles-of-macroeconomics-3e-audiobook.html)
+* [Concepts of Biology](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-concepts-of-biology-audiobook.html)
 
 </details>
 
