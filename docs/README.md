@@ -3,7 +3,7 @@
 Welcome to the internal library records for **Audileo**. This directory contains the specific metadata, accessibility benchmarks, and structural maps for our OpenStax audiobook collection.
 The audio recordings and narration ©Audileo – all rights reserved.  
 Only the underlying textbook text is open-source; see each OpenStax URL for license details.
-https://audileo.com/
+[https://audileo.com/](https://audileo.com/)
 
 If you are a developer, librarian, or OER coordinator, use the links below to access the full documentation for each title.
 
