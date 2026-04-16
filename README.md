@@ -12,14 +12,14 @@ We built **Audileo** to fix that. As an official **OpenStax Technology Partner**
 
 We provide deep-dive documentation for our most popular titles below.
 
-* [Anatomy and Physiology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/OpenStax-Anatomy-and-Physiology-2e-Audiobook.html) – 55 hours of life science gold.
+* [Anatomy and Physiology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-anatomy-and-physiology-2e-audiobook.html) – 55 hours of life science gold.
 * [Biology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-biology-2e-audiobook.html) – The bimodal study companion.
 * [Psychology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-psychology-2e-audiobook.html) – Human behavior insights.
 * [American Government 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-american-government-3e-audiobook.html)
 * [Astronomy 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-astronomy-2e-audiobook.html)
 * [Business Ethics](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-business-ethics-audiobook.html)
-* [Introduction to Business](https://audileo.github.io/audileo-openstax-audiobooks/docs/OpenStax-Introduction-to-Business-Audiobook.html)
-* [Introduction to Sociology 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/OpenStax-Introduction-to-Sociology-3e-Audiobook.html)
+* [Introduction to Business](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-introduction-to-business-audiobook.html)
+* [Introduction to Sociology 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-introduction-to-sociology-3e-audiobook.html)
 * [Principles of Marketing](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-principles-of-marketing-audiobook.html)
 * [Macroeconomics 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-principles-of-macroeconomics-3e-audiobook.html)
 * [Concepts of Biology](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-concepts-of-biology-audiobook.html)
