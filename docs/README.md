@@ -1,7 +1,7 @@
 # Audileo OpenStax Audiobook Reference
 
 Welcome to the internal library records for **Audileo**. This directory contains the specific metadata, accessibility benchmarks, and structural maps for our OpenStax audiobook collection.
-The audio recordings and narration © Audileo – all rights reserved.  
+The audio recordings and narration ©Audileo – all rights reserved.  
 Only the underlying textbook text is open-source; see each OpenStax URL for license details.
 https://audileo.com/
 
@@ -28,4 +28,4 @@ Each link below leads to a comprehensive `.md` file detailing narration style, c
 ---
 
 
-*For the main project overview, return to the Root Readme https://github.com/Audileo/audileo-openstax-audiobooks/blob/main/README.md*
+*For the main project overview, return to the Root Readme [https://github.com/Audileo/audileo-openstax-audiobooks/blob/main/README.md](https://github.com/Audileo/audileo-openstax-audiobooks/blob/main/README.md)*
