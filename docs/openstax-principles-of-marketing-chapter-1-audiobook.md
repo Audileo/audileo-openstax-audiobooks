@@ -2,6 +2,6 @@
 
 Branding, digital tactics, global cases—Chapter 1 free. 32 hours of modern marketing stories.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_0SDWefOBcU" title="OpenStax Principles of Marketing Chapter 1 Audiobook" frameborder="0" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=_0SDWefOBcU
 
 Full stream: https://audileo.com/audiobooks/openstax/principles-of-marketing/
