@@ -9,7 +9,6 @@ We built **Audileo** to fix that. As an official **OpenStax Technology Partner**
 ---
 
 ### 📚 Quick Access: Audiobook Docs
-📚 Quick Access: Audiobook Docs
 
 We provide deep-dive documentation for our most popular titles below.
 
