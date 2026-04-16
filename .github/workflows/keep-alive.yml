@@ -2,38 +2,36 @@ name: "Audileo: Library Freshness Sync"
 
 on:
   schedule:
-    # Runs at 09:00 UTC every Monday
     - cron: '0 9 * * 1'
-  workflow_dispatch: # Allows you to "nudge" Google manually
+  workflow_dispatch: 
+
+# Add this to stop older runs if a new one starts (prevents the "Canceled" mess)
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   refresh-metadata:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Essential for the bot to push changes
+      contents: write 
     
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          # Use your PAT if you need this commit to trigger OTHER actions (like the Sitemap)
-          # Otherwise, GITHUB_TOKEN is safer for simple vanity commits.
           token: ${{ secrets.PAT }}
           fetch-depth: 0
 
       - name: System Audit & Freshness Bump
         run: |
-          # Professional git identity
           git config user.name "audileo-bot"
           git config user.email "bot@audileo.com"
           
-          # Pull latest to avoid 'non-fast-forward' errors
           git pull origin main --rebase --autostash
           
-          # Update the hidden timestamp file
           echo "Last structural audit: $(date -u)" > .last-updated
           
-          # Only commit if something actually changed (prevents empty commit errors)
           git add .last-updated
           if git diff --staged --quiet; then
             echo "No updates needed this week. Keeping existing heartbeat."
