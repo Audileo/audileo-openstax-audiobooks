@@ -2,6 +2,6 @@
 
 Stream Chapter 1 of the OpenStax Psychology 2e audiobook free. Professional narration, page-synced, 32-hour full book—perfect for commuters or visual fatigue.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X2sg48CSF2g" title="OpenStax Psychology 2e Chapter 1 Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=X2sg48CSF2g
 
 Listen to the complete audiobook at https://audileo.com/audiobooks/openstax/psychology-2e/
