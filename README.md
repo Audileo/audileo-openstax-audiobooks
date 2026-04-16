@@ -12,17 +12,23 @@ We built **Audileo** to fix that. As an official **OpenStax Technology Partner**
 
 We provide deep-dive documentation for our most popular titles below.
 
-* [Anatomy and Physiology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-anatomy-and-physiology-2e-audiobook.html) – 55 hours of life science gold.
-* [Biology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-biology-2e-audiobook.html) – The bimodal study companion.
-* [Psychology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-psychology-2e-audiobook.html) – Human behavior insights.
-* [American Government 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-american-government-3e-audiobook.html)
-* [Astronomy 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-astronomy-2e-audiobook.html)
-* [Business Ethics](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-business-ethics-audiobook.html)
-* [Introduction to Business](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-introduction-to-business-audiobook.html)
-* [Introduction to Sociology 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-introduction-to-sociology-3e-audiobook.html)
-* [Principles of Marketing](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-principles-of-marketing-audiobook.html)
-* [Macroeconomics 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-principles-of-macroeconomics-3e-audiobook.html)
-* [Concepts of Biology](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-concepts-of-biology-audiobook.html)
+* [Anatomy and Physiology 2e](./docs/openstax-anatomy-and-physiology-2e-audiobook.md) – 55 hours of life science gold.
+* [Biology 2e](./docs/openstax-biology-2e-audiobook.md) – The bimodal study companion.
+* [Psychology 2e](./docs/openstax-psychology-2e-audiobook.md) – Human behavior insights.
+
+<details>
+<summary><b>View Full Library (13+ More Titles)</b></summary>
+
+* [American Government 3e](./docs/openstax-american-government-3e-audiobook.md)
+* [Astronomy 2e](./docs/openstax-astronomy-2e-audiobook.md)
+* [Business Ethics](./docs/openstax-business-ethics-audiobook.md)
+* [Introduction to Business](./docs/openstax-introduction-to-business-audiobook.md)
+* [Introduction to Sociology 3e](./docs/openstax-introduction-to-sociology-3e-audiobook.md)
+* [Principles of Marketing](./docs/openstax-principles-of-marketing-audiobook.md)
+* [Macroeconomics 3e](./docs/openstax-principles-of-macroeconomics-3e-audiobook.md)
+* [Concepts of Biology](./docs/openstax-concepts-of-biology-audiobook.md)
+
+</details>
 
 
 > **Pro Tip:** If you're using our **OpenStax Textbook AI Study Companion**, these documents explain the training data we used to ensure the bot doesn't "hallucinate" mid-study session.
