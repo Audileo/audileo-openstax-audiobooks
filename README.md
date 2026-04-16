@@ -9,11 +9,13 @@ We built **Audileo** to fix that. As an official **OpenStax Technology Partner**
 ---
 
 ### 📚 Quick Access: Audiobook Docs
+📚 Quick Access: Audiobook Docs
+
 We provide deep-dive documentation for our most popular titles below.
 
-* [Anatomy and Physiology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/OpenStax-Anatomy-and-Physiology-2e-Audiobook.html)
-* [Biology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-biology-2e-audiobook.html)
-* [Psychology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-psychology-2e-audiobook.html)
+* [Anatomy and Physiology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/OpenStax-Anatomy-and-Physiology-2e-Audiobook.html) – 55 hours of life science gold.
+* [Biology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-biology-2e-audiobook.html) – The bimodal study companion.
+* [Psychology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-psychology-2e-audiobook.html) – Human behavior insights.
 
 <details>
 <summary><b>View Full Library (13+ More Titles)</b></summary>
