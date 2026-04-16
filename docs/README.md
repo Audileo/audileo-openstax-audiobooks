@@ -15,7 +15,6 @@ Each link below leads to a comprehensive `.md` file detailing narration style, c
 ### STEM & Science
 * **[Anatomy and Physiology 2e](./OpenStax-Anatomy-and-Physiology-2e-Audiobook.md)** – High-fidelity narration for medical students.
 * **[Biology 2e](./openstax-biology-2e-audiobook.md)** – Detailed bimodal study support.
-* **[Chemistry: Atoms First 2e](./OpenStax-Chemistry-Atoms-First.md)** – Complex notation translated to audio.
 
 ### Social Sciences & Humanities
 * **[Psychology 2e](./openstax-psychology-2e-audiobook.md)** – The gold standard for introductory psych courses.
