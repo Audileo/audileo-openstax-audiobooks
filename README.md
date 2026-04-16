@@ -15,10 +15,6 @@ We provide deep-dive documentation for our most popular titles below.
 * [Anatomy and Physiology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/OpenStax-Anatomy-and-Physiology-2e-Audiobook.html) – 55 hours of life science gold.
 * [Biology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-biology-2e-audiobook.html) – The bimodal study companion.
 * [Psychology 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-psychology-2e-audiobook.html) – Human behavior insights.
-
-<details>
-<summary><b>View Full Library (13+ More Titles)</b></summary>
-
 * [American Government 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-american-government-3e-audiobook.html)
 * [Astronomy 2e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-astronomy-2e-audiobook.html)
 * [Business Ethics](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-business-ethics-audiobook.html)
@@ -27,8 +23,6 @@ We provide deep-dive documentation for our most popular titles below.
 * [Principles of Marketing](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-principles-of-marketing-audiobook.html)
 * [Macroeconomics 3e](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-principles-of-macroeconomics-3e-audiobook.html)
 * [Concepts of Biology](https://audileo.github.io/audileo-openstax-audiobooks/docs/openstax-concepts-of-biology-audiobook.html)
-
-</details>
 
 
 > **Pro Tip:** If you're using our **OpenStax Textbook AI Study Companion**, these documents explain the training data we used to ensure the bot doesn't "hallucinate" mid-study session.
