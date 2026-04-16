@@ -28,4 +28,4 @@ Each link below leads to a comprehensive `.md` file detailing narration style, c
 ---
 
 
-*For the main project overview, return to the Root Readme (https://github.com/Audileo/audileo-openstax-audiobooks/blob/main/README.md)](https://github.com/Audileo/audileo-openstax-audiobooks/blob/main/README.md).*
+*For the main project overview, return to the Root Readme https://github.com/Audileo/audileo-openstax-audiobooks/README.md*
