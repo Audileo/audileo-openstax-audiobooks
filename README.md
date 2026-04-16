@@ -26,7 +26,6 @@ We provide deep-dive documentation for our most popular titles below.
 * [Principles of Marketing](./docs/openstax-principles-of-marketing-audiobook.md)
 * [Macroeconomics 3e](./docs/openstax-principles-of-macroeconomics-3e-audiobook.md)
 * [Concepts of Biology](./docs/openstax-concepts-of-biology-audiobook.md)
-  
 
 </details>
 
