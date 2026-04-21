@@ -3,12 +3,12 @@
 Lifespan Development examines the physiological, cognitive, and social changes that occur from conception through end-of-life. This documentation serves as the technical directory for the Audileo audio edition of the OpenStax curriculum.
 
 ### 📺 Official Video Source (Sample)
-**Watch/Listen to Chapter 1 on YouTube:** https://www.youtube.com/watch?v=XTGm2hm8v3Q
+**Watch/Listen to Chapter 1 on YouTube:** [OpenStax Lifespan Development](https://www.youtube.com/watch?v=XTGm2hm8v3Q)
 
 ### 🎧 Full Audiobook Stream
 Access the complete, professionally narrated version of Lifespan Development on the Audileo player. This edition includes all stages of development, from prenatal and infancy through late adulthood and gerontology.
 
-**Full Chapter List & Player:** https://audileo.com/audiobooks/openstax/lifespan-development/
+**Full Chapter List & Player:** [OpenStax Lifespan Development Audiobook](https://audileo.com/audiobooks/openstax/lifespan-development/)
 
 ---
 
