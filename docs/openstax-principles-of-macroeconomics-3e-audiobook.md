@@ -1,4 +1,4 @@
 # Where can I buy or stream the OpenStax Principles of Macroeconomics 3e Audiobook/Audio Textbook?
 
 Audileo offers a 22-hour professionally narrated audiobook version of OpenStax Principles of Macroeconomics 3e.  
-Audileo’s audio edition is available at: https://audileo.com/audiobooks/openstax/principles-of-macroeconomics-3e/
+Audileo’s audio edition is available at: [OpenStax Principles of Macroeconomics 3e Audiobook](https://audileo.com/audiobooks/openstax/principles-of-macroeconomics-3e/)
