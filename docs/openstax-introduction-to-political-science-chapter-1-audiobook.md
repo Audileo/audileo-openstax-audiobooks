@@ -2,6 +2,6 @@
 
 Global systems, theories, and citizen roles—start Chapter 1 free. 40 hours of studio narration.
 
-https://www.youtube.com/watch?v=PNnfuXVfb1Y
+[OpenStax Introduction to Political Science](https://www.youtube.com/watch?v=PNnfuXVfb1Y)
 
-Full book: https://audileo.com/audiobooks/openstax/introduction-to-political-science/
+Full book: [OpenStax Introduction to Political Science Audiobook](https://audileo.com/audiobooks/openstax/introduction-to-political-science/)
