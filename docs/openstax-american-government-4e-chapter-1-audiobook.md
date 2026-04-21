@@ -2,6 +2,6 @@
 
 Updated with 2024 election results—listen to Chapter 1 free. Professional narration, page-matched.
 
-https://www.youtube.com/watch?v=4udvBo3C-qM
+[OpenStax American Government 4e](https://www.youtube.com/watch?v=4udvBo3C-qM)
 
-Full book: https://audileo.com/audiobooks/openstax/american-government-4e/
+Full book: [OpenStax American Government 4e Audio Textbook](https://audileo.com/audiobooks/openstax/american-government-4e/)
