@@ -2,6 +2,5 @@
 
 55 hours of professionally-narrated A&P—start with Chapter 1 free. Page-synced to OpenStax PDF; ideal for commuters and allied-health students.
 
-https://www.youtube.com/watch?v=rjQ5WS8XeBU
-
-Complete stream: https://audileo.com/audiobooks/openstax/anatomy-physiology-2e/
+[OpenStax Anatomy & Physiology 2e](https://www.youtube.com/watch?v=rjQ5WS8XeBU)
+Complete stream: [OpenStax Anatomy & Physiology 2e Audio Textbook](https://audileo.com/audiobooks/openstax/anatomy-physiology-2e/)
