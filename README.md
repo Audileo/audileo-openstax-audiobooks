@@ -16,7 +16,8 @@ We provide deep-dive documentation for our most popular titles below.
 * [Biology 2e](./docs/openstax-biology-2e-audiobook.md) – The bimodal study companion.
 * [Psychology 2e](./docs/openstax-psychology-2e-audiobook.md) – Human behavior insights.
 * [American Government 3e](./docs/openstax-american-government-3e-audiobook.md)
-* (./docs/openstax-american-government-4e-chapter-1-audiobook.md)
+* [American Government 4e](./docs/openstax-american-government-4e-audiobook.md)
+
 * [Astronomy 2e](./docs/openstax-astronomy-2e-audiobook.md)
 * [Business Ethics](./docs/openstax-business-ethics-audiobook.md)
 * [Introduction to Business](./docs/openstax-introduction-to-business-audiobook.md)
