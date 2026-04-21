@@ -2,6 +2,5 @@
 
 Non-technical tour of the universe—Chapter 1 free. 28 hours, latest discoveries included.
 
-https://www.youtube.com/watch?v=jYvKXcXIz-g
-
-Full stream: https://audileo.com/audiobooks/openstax/astronomy-2e/
+[OpenStax Astronomy 2e](https://www.youtube.com/watch?v=jYvKXcXIz-g)
+Full stream: [OpenStax Astronomy 2e Audio Textbook](https://audileo.com/audiobooks/openstax/astronomy-2e/)
