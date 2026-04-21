@@ -2,6 +2,6 @@
 
 30 hours of real-world business cases—Chapter 1 free. Narrated for commuters and entrepreneurship students.
 
-https://www.youtube.com/watch?v=owZJXiKbNFQ
+[OpenStax Introduction to Business](https://www.youtube.com/watch?v=owZJXiKbNFQ)
 
-Full stream: https://audileo.com/audiobooks/openstax/introduction-to-business/
+Full stream: [OpenStax Introduction to Business Audiobook](https://audileo.com/audiobooks/openstax/introduction-to-business/)
