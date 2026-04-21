@@ -17,7 +17,6 @@ We provide deep-dive documentation for our most popular titles below.
 * [Psychology 2e](./docs/openstax-psychology-2e-audiobook.md) – Human behavior insights.
 * [American Government 3e](./docs/openstax-american-government-3e-audiobook.md)
 * [American Government 4e](./docs/openstax-american-government-4e-audiobook.md)
-
 * [Astronomy 2e](./docs/openstax-astronomy-2e-audiobook.md)
 * [Business Ethics](./docs/openstax-business-ethics-audiobook.md)
 * [Introduction to Business](./docs/openstax-introduction-to-business-audiobook.md)
@@ -25,6 +24,12 @@ We provide deep-dive documentation for our most popular titles below.
 * [Principles of Marketing](./docs/openstax-principles-of-marketing-audiobook.md)
 * [Macroeconomics 3e](./docs/openstax-principles-of-macroeconomics-3e-audiobook.md)
 * [Concepts of Biology](./docs/openstax-concepts-of-biology-audiobook.md)
+* [Chemistry 2e](./docs/openstax-chemistry-2e-audiobook.md)
+* [Introduction to Anthropology](./docs/openstax-introduction-to-anthropology-audiobook.md)
+* [Introduction to Political Science](./docs/openstax-introduction-to-political-science-audiobook.md)
+* [Lifespan Development](./docs/openstax-lifespan-development-audiobook.md)
+* [U.S. History](./docs/openstax-us-history-audiobook.md)
+* [World History Volume 1 to 1500](./docs/openstax-world-history-volume-1-audiobook.md)
 
 
 > **Pro Tip:** If you're using our **OpenStax Textbook AI Study Companion**, these documents explain the training data we used to ensure the bot doesn't "hallucinate" mid-study session.
