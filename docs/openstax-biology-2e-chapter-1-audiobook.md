@@ -4,4 +4,4 @@ Hear Chapter 1 of OpenStax Biology 2e free—85 hours of studio narration, page-
 
 https://www.youtube.com/watch?v=dVsIZhr_1lQ
 
-Full book: https://audileo.com/audiobooks/openstax/astronomy-2e/
+Full book: https://audileo.com/audiobooks/openstax/biology-2e/
