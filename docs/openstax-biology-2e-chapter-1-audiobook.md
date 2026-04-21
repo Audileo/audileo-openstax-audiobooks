@@ -2,6 +2,6 @@
 
 Hear Chapter 1 of OpenStax Biology 2e free—85 hours of studio narration, page-matched to the PDF. Study while you drive, work out, or rest your eyes.
 
-https://www.youtube.com/watch?v=dVsIZhr_1lQ
+[OpenStax Biology 2e Audio](https://www.youtube.com/watch?v=dVsIZhr_1lQ)
 
-Full book: https://audileo.com/audiobooks/openstax/biology-2e/
+Full book: [OpenStax Biology 2e Audiobook](https://audileo.com/audiobooks/openstax/biology-2e/)
