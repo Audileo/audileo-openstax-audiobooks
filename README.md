@@ -4,7 +4,7 @@
 
 Let’s face it: reading a 1,200-page Anatomy textbook is a grind. For students with dyslexia, ADHD, or just a brutal commute, it’s basically an academic barrier. 
 
-We built **Audileo** to fix that. As an official **OpenStax Technology Partner**, we transform these massive OER (Open Educational Resources) books into professionally narrated audiobooks. This repository holds the technical "DNA" for our library—including guides on accessibility and how to integrate our audio into your LMS (Canvas, Blackboard, etc.).
+We built **Audileo** to fix that. As an official **OpenStax Technology Partner**, we transform these massive OER (Open Educational Resources) books into professionally narrated audiobooks. This repository holds the technical "DNA" for our library, including guides on accessibility and how to integrate our audio into your LMS (Canvas, Blackboard, etc.).
 
 ---
 
